@@ -1,0 +1,2 @@
+Movie_Title,Release_Year,Genre,Language,Certification,Production_Company,Budget_Million_USD,Marketing_Million_USD,Runtime_Minutes,IMDb_Rating,IMDb_Votes,Theater_Count,Opening_Weekend_Million_USD,Is_Sequel,Is_Franchise
+Example Future Movie,2026,Action,English,PG-13,Alpha Studios,100,30,135,7.5,80000,3500,120,1,1
